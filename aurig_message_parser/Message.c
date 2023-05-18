@@ -5,6 +5,8 @@
 #include "Message.h"
 
 static Message  * messages_queue[MAX_QUEUE_SIZE];
+
+
 void Message_parse_file(char * input_file_path){
 
     char line_1[MAX_LINE_SIZE];
