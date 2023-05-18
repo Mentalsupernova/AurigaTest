@@ -1,0 +1,72 @@
+Error crc error 
+message type : 68
+initial message length  : 69
+initial message data bytes : ADB
+initial crc32 : 4539904
+modified message length : 4
+modified message data bytes : 2260438E
+modified crc32 : 12072065
+Error crc error 
+message type : 48
+initial message length  : 49
+initial message data bytes : 0ADEADBEE
+initial crc32 : 3223552
+modified message length : 12
+modified message data bytes : 3DE0438E
+modified crc32 : 4090951
+Error crc error 
+message type : 48
+initial message length  : 49
+initial message data bytes : 0ADEADBEEF
+initial crc32 : 3223552
+modified message length : 9
+modified message data bytes : 1CE0438E
+modified crc32 : 8413051
+Error crc error 
+message type : 68
+initial message length  : 68
+initial message data bytes : DEADBEEF
+initial crc32 : 3223552
+modified message length : 7
+modified message data bytes : 3CE0438E
+modified crc32 : 13020669
+Error crc error 
+message type : 68
+initial message length  : 68
+initial message data bytes : DEADBEEF
+initial crc32 : 3223552
+modified message length : 8
+modified message data bytes : 30E0438E
+modified crc32 : 12288995
+Error crc error 
+message type : 68
+initial message length  : 68
+initial message data bytes : DEADBEEF
+initial crc32 : 3223552
+modified message length : 8
+modified message data bytes : 8E
+modified crc32 : 12288995
+Error crc error 
+message type : 68
+initial message length  : 68
+initial message data bytes : DEADBEEF
+initial crc32 : 3223552
+modified message length : 8
+
+modified crc32 : 12288995
+Error crc error 
+message type : 68
+initial message length  : 68
+initial message data bytes : DEADBEEF
+initial crc32 : 3223552
+modified message length : 8
+modified message data bytes : tuqtruuv
+modified crc32 : 12288995
+Error crc error 
+message type : 68
+initial message length  : 68
+initial message data bytes : DEADBEEF
+initial crc32 : 3223552
+modified message length : 8
+modified message data bytes : tuqtruuv
+modified crc32 : 12288995

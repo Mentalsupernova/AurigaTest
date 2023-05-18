@@ -1,0 +1,4 @@
+"/Users/utsu/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.8770.66/CLion.app/Contents/bin/cmake/mac/bin/cmake" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=/Users/utsu/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/231.8770.66/CLion.app/Contents/bin/ninja/mac/ninja" -G Ninja -S /Users/utsu/work/AurigaTest/aurig_message_parser -B /Users/utsu/work/AurigaTest/aurig_message_parser/cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/utsu/work/AurigaTest/aurig_message_parser/cmake-build-debug

@@ -1,0 +1,18 @@
+# ninja log v5
+5	37	1684426015379120641	CMakeFiles/aurig_message_parser.dir/Message.c.o	eae92adc74587b07
+2	246	1684425742797082670	CMakeFiles/aurig_message_parser.dir/utils.c.o	1edfe09494644255
+38	69	1684426015412181386	aurig_message_parser	88ea6af72d136ec1
+0	29	1684425497586852073	CMakeFiles/aurig_message_parser.dir/main.c.o	f9ebdef624c8204f
+0	29	1684426035887717962	CMakeFiles/aurig_message_parser.dir/Message.c.o	eae92adc74587b07
+29	62	1684426035921761231	aurig_message_parser	88ea6af72d136ec1
+1	269	1684426069845156887	CMakeFiles/aurig_message_parser.dir/Message.c.o	eae92adc74587b07
+270	346	1684426069922489706	aurig_message_parser	88ea6af72d136ec1
+1	249	1684426240034301817	CMakeFiles/aurig_message_parser.dir/Message.c.o	eae92adc74587b07
+250	298	1684426240084154827	aurig_message_parser	88ea6af72d136ec1
+1	39	1684426256301749107	CMakeFiles/aurig_message_parser.dir/Message.c.o	eae92adc74587b07
+40	72	1684426256335857708	aurig_message_parser	88ea6af72d136ec1
+1	33	1684426266688076488	CMakeFiles/aurig_message_parser.dir/Message.c.o	eae92adc74587b07
+34	67	1684426266723003406	aurig_message_parser	88ea6af72d136ec1
+1	27	1684426297053905930	CMakeFiles/aurig_message_parser.dir/main.c.o	f9ebdef624c8204f
+1	31	1684426297057660525	CMakeFiles/aurig_message_parser.dir/Message.c.o	eae92adc74587b07
+31	62	1684426297089949953	aurig_message_parser	88ea6af72d136ec1
