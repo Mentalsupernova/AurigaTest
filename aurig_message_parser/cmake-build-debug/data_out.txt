@@ -70,3 +70,11 @@ initial crc32 : 3223552
 modified message length : 8
 modified message data bytes : tuqtruuv
 modified crc32 : 12288995
+Error crc error 
+message type : 68
+initial message length  : 68
+initial message data bytes : DEADBEEF
+initial crc32 : 3223552
+modified message length : 8
+modified message data bytes : tuqtruuv
+modified crc32 : 8799599

@@ -26,12 +26,11 @@ void calc_crc32(unsigned char *data, size_t size, uint32_t *crc) {
     const uint32_t polynomial = POLYNOMINAL;
     *crc = CRC32_INITIAL_VALUE;
 
-    for (size_t i = 0; i < size; i++) {
-        *crc ^= data[i];
-
-        for (size_t j = 0; j < 8; j++) {
+    for (int i = 0; i < size; i++) {
+        *crc ^= (data[i] << 24);  // XOR with next byte
+        for (int j = 0; j < 8; j++) {
             if (*crc & 0x80000000) {
-                *crc = (*crc << 1) ^ polynomial;
+                *crc = (*crc << 1) ^ POLYNOMINAL;
             } else {
                 *crc <<= 1;
             }
